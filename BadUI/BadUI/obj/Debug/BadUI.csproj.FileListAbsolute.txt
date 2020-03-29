@@ -1,0 +1,8 @@
+C:\Users\Si\Documents\SharpDevelop Projects\BadUI\BadUI\bin\Debug\BadUI.exe.config
+C:\Users\Si\Documents\SharpDevelop Projects\BadUI\BadUI\bin\Debug\BadUI.exe
+C:\Users\Si\Documents\SharpDevelop Projects\BadUI\BadUI\bin\Debug\BadUI.pdb
+C:\Users\Si\Documents\SharpDevelop Projects\BadUI\BadUI\obj\Debug\BadUI.csprojResolveAssemblyReference.cache
+C:\Users\Si\Documents\SharpDevelop Projects\BadUI\BadUI\obj\Debug\BadUI.MainForm.resources
+C:\Users\Si\Documents\SharpDevelop Projects\BadUI\BadUI\obj\Debug\BadUI.csproj.GenerateResource.Cache
+C:\Users\Si\Documents\SharpDevelop Projects\BadUI\BadUI\obj\Debug\BadUI.exe
+C:\Users\Si\Documents\SharpDevelop Projects\BadUI\BadUI\obj\Debug\BadUI.pdb
